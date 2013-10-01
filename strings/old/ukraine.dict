@@ -1,0 +1,107 @@
+{
+"acct_type7000" = "Income Account"
+"account_name" = "Назва рахунку"
+"acct_type5000s" = "Loan"
+"acct_type5000" = "Loan Account"
+"about_html" = "Більше інформації про Moneydance ви можете знайти на інтернетових сторінках  http://moneydance.net/
+Велике дякую наступним людям за їх допомогу з Moneydance:<br><ul>
+<li><b>Chris Dailey and Tom Wheeler</b> за допомогу в програмуванні
+<li><b>Amos Shapira, Daniel P. Hensley, Charles Stroom, Lane Lester</b> та багато іншим в moneydance-info mailing list за тестування та побажання
+</ul>
+<br>Дякую також наступним людям за переклад Moneydance:
+<table border=1>
+<tr><th>Мова</th><th>Перекладач</th></tr>
+<tr><td>Brazilian/Portuguese</td><td>&Eacute;rico Mendon&ccedil;a</td></tr>
+<tr><td>Italian</td><td>Arrigo Triulzi</td></tr>
+<tr><td>Italian</td><td>Roberto Neri</td></tr>
+<tr><td>French</td><td>Guillaume Proux</td></tr>
+<tr><td>French</td><td>Etienne Bauman</td></tr>
+<tr><td>German</td><td>Jan Tim Schueszler</td></tr>
+<tr><td>German</td><td>Roland J. Kupfer</td></tr>
+<tr><td>German</td><td>Stefan Rosik</td></tr>
+<tr><td>German</td><td>Clemens Lee</td></tr>
+</table><br><br>
+Цей продукт включає код, ліцензований в RSA Data Security
+"
+"apr" = "APR"
+"acct_type3000" = "Інвестиційний рахунок"
+"all_checks" = "Всі чеки"
+"add..." = "Додати..."
+"acct_type4000s" = "Security"
+"acct_type1000" = "Банківський рахунок"
+"archive_only_clrd" = "Only archive cleared transactions"
+"archive_error" = "Помилка архіву"
+"ask_save_cleared_txn" = "Warning: This transaction has already been marked as 'Cleared'.
+
+Changing the amount of this transaction could result in an
+incorrect 'Cleared Balance.'  This may affect your 'Beginning
+Statement Balance' the next time you attempt to reconcile this
+account.  Would you like to record this change?"
+"acct_type3000s" = "Інвестиційний"
+"acct_type0" = "Головний рахунок"
+"acct_type2000s" = "Кредитні картки"
+"acct_type4600" = "Liability Account"
+"acct_type1000s" = "Банк"
+"archive_txns" = "Архівувати старі трансакції"
+"acct_type0s" = "Головний"
+"acct_type7000S" = "ПРИБУТОК"
+"add_module" = "Додати модуль"
+"acct_value" = "Account Value"
+"base_currency" = "Головна грошова одиниця"
+"bank_account" = "Банківський рахунок"
+"bdgt_actual" = "Actual Amount"
+"acct_type6000S" = "ВИТРАТИ"
+"acct_type4600S" = "LIABILITY"
+"bank_name" = "Назва банку"
+"acct_type5000S" = "LOAN"
+"accounts" = "Рахунки"
+"acct_type4000S" = "SECURITY"
+"account" = "Рахунок"
+"acct_type3000S" = "ІНВЕСТИЦІЇ"
+"account_type_Investment" = "Інвестиційний"
+"balance" = "Баланс"
+"accept_txn" = "Прийняти"
+"acct_type2000S" = "КРЕДИТНІ КАРТКИ"
+"add_from_file..." = "Додати з файлу..."
+"acct_type6000" = "Рахунок витрат"
+"account_type" = "Тип рахунку"
+"acct_type4300s" = "Asset"
+"acct_type4000" = "Security рахунок"
+"acct_type1000S" = "ВИТРАТИ"
+"acct_type0S" = "ГОЛОВНИЙ"
+"all_accounts" = "Всі рахунки"
+"acct_type2000" = "Рахунок кредитної картки"
+"add_ext_desc" = "Please select the source from which you
+would like to acquire an extension"
+"add" = "Додати"
+"ask_save_cleared_xfer" = "Warning: This transaction has already been marked as 'cleared'
+in one of the accounts to which it is connected.
+
+Changing the amount of this transaction could cause your
+'cleared balance' in another account to be incorrect and
+cause problems the next time you attempt to reconcile
+that account.  Are you sure that you would like to record
+this change?"
+"account_type_income" = "Прибутки"
+"as_of" = "As of"
+"archive_file" = "Файл архіву"
+"account_number" = "Номер рахунку"
+"all_dates" = "Всі дати"
+"account_description" = "Опис"
+"account_type_expense" = "Витрати"
+"amt_borrowed" = "Всього позичено"
+"account_info_title" = "Інформація про рахунок: "
+"account_type_bank" = "Банк"
+"about_moneydance" = "Про Moneydance
+"
+"1st_chk_num" = "Перший номер чеку"
+"acct_type4300S" = "ASSET"
+"acct_type4300" = "Asset Account"
+"acct_type7000s" = "Прибуток"
+"action_menu" = "Actions"
+"accept_all_txns" = "Підтвердити все
+"
+"archive..." = "Архів..."
+"acct_type6000s" = "Витрата"
+"acct_type4600s" = "Liability"
+}
