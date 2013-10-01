@@ -1,0 +1,123 @@
+{
+  root = {
+      acct_name = "Mitt regnskap"
+      settings = { }
+      sub_accounts = (
+        { acct_name = "Brukskonto"	acct_type = "BANK"	currency_type = "*DEFAULT*" }
+        { acct_name = "Sparekonto"		acct_type = "BANK"	currency_type = "*DEFAULT*" }
+        { acct_name = "Bank"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" sub_accounts = (
+          { acct_name = "Renter"		acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Gebyrer"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+        ) }
+        { acct_name = "Diverse"	        acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+        { acct_name = "Minibank"		acct_type = "EXPENSE"	currency_type = "*DEFAULT*"  sub_accounts = (
+          { acct_name = "Uttak"		acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Gebyr"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+        ) }
+        { acct_name = "Barnepass"		acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+        { acct_name = "Skolegang"		acct_type = "EXPENSE"	currency_type = "*DEFAULT*"  sub_accounts = (
+          { acct_name = "Bøker"		acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Skolepenger"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Annet"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+        ) }
+        { acct_name = "Helseutgifter"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*"  sub_accounts = (
+          { acct_name = "Tannlege"		acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Optiker"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Sykehus"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Lege"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Medisiner"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+        ) }
+        { acct_name = "Kjæledyr"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*"  sub_accounts = (
+          { acct_name = "Mat"		acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Utstyr"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Veterinær"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+        ) }
+        { acct_name = "Forsikringer"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*"  sub_accounts = (
+          { acct_name = "Bil"		acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Sykdom"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Hus og hjem"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Liv"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+        ) }
+        { acct_name = "Skatter"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*"  sub_accounts = (
+          { acct_name = "Inntektsskatt"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Andre skatter"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+        ) }
+        { acct_name = "Ferie"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*"  sub_accounts = (
+          { acct_name = "Overnatting"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Reise"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+        ) }
+        { acct_name = "Bilhold"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*"  sub_accounts = (
+          { acct_name = "Service"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Bensin"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Annet"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+        ) }
+        { acct_name = "Hus og hjem"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*"  sub_accounts = (
+          { acct_name = "Vedlikehold"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Hage"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Møbler"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Annet"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+        ) }
+        { acct_name = "Lån"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*"  sub_accounts = (
+          { acct_name = "Avdrag"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Renter"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+        ) }
+        { acct_name = "Privat"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*"  sub_accounts = (
+          { acct_name = "Personlig velvære"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Representasjon"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Spise ute"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Data"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Klær og sko"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Diverse"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Mat"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Gaver"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Bøker og tidsskrifter"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Teater og kino"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Sport"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Kultur"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+        ) }
+        { acct_name = "Utgifter"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*"  sub_accounts = (
+          { acct_name = "Telefon"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Kabeltjenester"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Strøm"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Renovasjon"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Husleie"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Vann og avløp"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+        ) }
+        { acct_name = "Firmautgifter"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*"  sub_accounts = (
+          { acct_name = "Refunderbare"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Ikke refunderbare"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+        ) }
+        { acct_name = "Investering"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*"  sub_accounts = (
+          { acct_name = "Kurtasje"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+        ) }
+        { acct_name = "Investering"	acct_type = "INCOME"	currency_type = "*DEFAULT*"  sub_accounts = (
+          { acct_name = "Dividende"	acct_type = "INCOME"	currency_type = "*DEFAULT*" }
+          { acct_name = "Renter"	acct_type = "INCOME"	currency_type = "*DEFAULT*" }
+          { acct_name = "Langsiktig gevinst"	acct_type = "INCOME"	currency_type = "*DEFAULT*" }
+          { acct_name = "Kortsiktig gevinst"	acct_type = "INCOME"	currency_type = "*DEFAULT*" }
+        ) }
+        { acct_name = "Inntekt"	acct_type = "INCOME"	currency_type = "*DEFAULT*"  sub_accounts = (
+          { acct_name = "Lønn"	acct_type = "INCOME"	currency_type = "*DEFAULT*" }
+          { acct_name = "Kommissjon"	acct_type = "INCOME"	currency_type = "*DEFAULT*" }
+          { acct_name = "Bonus"	acct_type = "INCOME"	currency_type = "*DEFAULT*" }
+          { acct_name = "Reiserefusjon"	acct_type = "INCOME"	currency_type = "*DEFAULT*" }
+          { acct_name = "Overtid"	acct_type = "INCOME"	currency_type = "*DEFAULT*" }
+        ) }
+        { acct_name = "Annen inntekt"	acct_type = "INCOME"	currency_type = "*DEFAULT*"  sub_accounts = (
+          { acct_name = "Barnetrygd"	acct_type = "INCOME"	currency_type = "*DEFAULT*" }
+          { acct_name = "Gaver mottatt"	acct_type = "INCOME"	currency_type = "*DEFAULT*" }
+          { acct_name = "Spill"	acct_type = "INCOME"	currency_type = "*DEFAULT*" }
+          { acct_name = "For mye betalt skatt"	acct_type = "INCOME"	currency_type = "*DEFAULT*" }
+          { acct_name = "Arbeidsløshetstrygd"	acct_type = "INCOME"	currency_type = "*DEFAULT*" }
+          { acct_name = "Konsulentinntekter"	acct_type = "INCOME"	currency_type = "*DEFAULT*" }
+        ) }
+        { acct_name = "Pensjonsinntekter"	acct_type = "INCOME"	currency_type = "*DEFAULT*"  sub_accounts = (
+          { acct_name = "Egen pensjon/annuitet"	acct_type = "INCOME"	currency_type = "*DEFAULT*" }
+          { acct_name = "Firmapensjon"	acct_type = "INCOME"	currency_type = "*DEFAULT*" }
+          { acct_name = "Off. pensjon"	acct_type = "INCOME"	currency_type = "*DEFAULT*" }
+        ) }
+      )
+  }
+}
+
+

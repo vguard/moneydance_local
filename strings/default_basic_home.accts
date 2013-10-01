@@ -1,0 +1,138 @@
+{
+"root" = {
+"acct_name" = "My Finances"
+"settings" = {
+}
+
+"sub_accounts" = (
+{
+"acct_type" = "BANK"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Checking"
+}
+{
+"acct_type" = "BANK"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Savings"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Miscellaneous"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Personal"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Entertainment"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Dining"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Computer"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Miscellaneous"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Groceries"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Gifts"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Books/Magazines"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Bills"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Phone"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Cable"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Electric"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Garbage"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Rent"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Water/Sewer"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Gas"
+}
+)
+
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Salary"
+"sub_accounts" = (
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Paycheck"
+"tax_cat" = "460"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Commission"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Bonus"
+"tax_cat" = "460"
+}
+)
+
+}
+)
+
+}
+
+}

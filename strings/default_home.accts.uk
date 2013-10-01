@@ -1,0 +1,594 @@
+{
+"root" = {
+"acct_name" = "My Finances"
+"settings" = {
+}
+
+"sub_accounts" = (
+{
+"acct_type" = "BANK"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Current"
+}
+{
+"acct_type" = "BANK"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Savings"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Bank Charge"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Interest Paid"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Service Charges"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Miscellaneous"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Cash Point Withdrawal"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Cash"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Service Charge"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Childcare"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Education"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Books"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Fees"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Tuition"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Healthcare"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Dental"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Vision"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Hospital"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Physician"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Prescriptions"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Pet Care"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Food"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Supplies"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Veterinarian"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Insurance"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Automobile"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Health"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Home"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Life"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Tax"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "NHS Contribution"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "National Insurance"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Inland Revenue"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "VAT"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Income Tax"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "PAYE (Pay As You Earn)"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Holiday"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Lodging"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Travel"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Automotive"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Service"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Fuel"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Misc"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Home"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Maintenance"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Furnishing"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Misc"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Loan"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Payment"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Interest"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Personal"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Personal Care"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Entertainment"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Dining"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Computer"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Misc"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Groceries"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Restaurant"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Gifts"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Donations"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Books/Magazines"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Theatre"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Sporting Goods"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Sports Events"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Music"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Bills"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Phone"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Cable"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Electric"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Garbage"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Homeowners Dues"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Mortgage Interest"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Rent"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Water/Sewer"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Gas"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Business"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Reimbursed Expense"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Non-Reimbursed Expense"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Investment"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Trading Commission"
+}
+)
+
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Investment"
+"sub_accounts" = (
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Dividends"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Interest"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Long-Term Cap. Gains"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Short-Term Cap. Gains"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Tax-Exempt Interest"
+}
+)
+
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Salary"
+"sub_accounts" = (
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Paycheque"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Commission"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Bonus"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Travel Reimbursement"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Overtime"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Employer Matching"
+}
+)
+
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Other Income"
+"sub_accounts" = (
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Child Support"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Gifts Received"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Loan Principal Received"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Lotteries"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Tax Refund"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Unemployment Comp."
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Consulting Payment"
+}
+)
+
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Retirement Income"
+"sub_accounts" = (
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Pension Distributions"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Pensions/Annuities"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "National Insurance"
+}
+)
+
+}
+)
+
+}
+
+}

@@ -1,0 +1,138 @@
+{
+"root" = {
+"acct_name" = "나의 재정"
+"settings" = {
+}
+
+"sub_accounts" = (
+{
+"acct_type" = "BANK"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "체킹"
+}
+{
+"acct_type" = "BANK"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "세이빙즈"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "기타"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "개인"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "엔터테인먼트"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "식사"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "컴퓨터"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "기타"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "식품"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "선물"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "서적"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "고지서"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "전화"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "케이블 TV"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "전기"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "쓰레기"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "임대"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "수돗물"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "가솔린"
+}
+)
+
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "봉급"
+"sub_accounts" = (
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "페이체크"
+"tax_cat" = "460"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "커미션"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "보너스"
+"tax_cat" = "460"
+}
+)
+
+}
+)
+
+}
+
+}

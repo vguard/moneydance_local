@@ -1,0 +1,136 @@
+{
+"root" = {
+"acct_name" = "Meine Finanzen"
+"settings" = {
+}
+
+"sub_accounts" = (
+{
+"acct_type" = "BANK"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Girokonto"
+}
+{
+"acct_type" = "BANK"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Sparkonto"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Verschiedenes"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Persönliches"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Unterhaltung"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Ausgehen"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Computer"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Verschiedenes"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Lebensmittel"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Geschenke"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Bücher/Zeitschriften"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Rechnungen"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Telefon"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Kabelfernsehen"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Elektrizität"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Müll"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Miete"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Wasser/Abwasser"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Gas"
+}
+)
+
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Arbeitseinkommen"
+"sub_accounts" = (
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Lohn/Gehalt"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Provisionen"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Bonus"
+}
+)
+
+}
+)
+
+}
+
+}

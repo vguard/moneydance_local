@@ -1,0 +1,37 @@
+{
+
+  root = {
+      acct_name = "Mitt regnskap"
+      settings = { }
+      sub_accounts = (
+        { acct_name = "Brukskonto"	acct_type = "BANK"	currency_type = "*DEFAULT*" }
+        { acct_name = "Sparekonto"		acct_type = "BANK"	currency_type = "*DEFAULT*" }
+        { acct_name = "Diverse"		acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+        { acct_name = "Privat"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*"  sub_accounts = (
+          { acct_name = "Representasjon"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Spise ute"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Data"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Diverse"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Mat"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Gaver"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Bøker/tidsskrifter"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+        ) }
+        { acct_name = "Utgifter"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*"  sub_accounts = (
+          { acct_name = "Telefon"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "KabelTV"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Strøm"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Off. utgifter"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Husleie"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Avis"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+          { acct_name = "Annet"	acct_type = "EXPENSE"	currency_type = "*DEFAULT*" }
+        ) }
+        { acct_name = "Inntekter"	acct_type = "INCOME"	currency_type = "*DEFAULT*"  sub_accounts = (
+          { acct_name = "Lønn"	acct_type = "INCOME"	currency_type = "*DEFAULT*" }
+          { acct_name = "Diett"	acct_type = "INCOME"	currency_type = "*DEFAULT*" }
+          { acct_name = "Bonus"	acct_type = "INCOME"	currency_type = "*DEFAULT*" }
+        ) } 
+      )
+  }
+}
+
+
