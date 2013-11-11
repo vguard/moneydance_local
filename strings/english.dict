@@ -2115,7 +2115,7 @@ default_new_budget_name = "Budget"
 "year" = "Year"
 "dont_repeat" = "Don't repeat"
 "specify_manually" = "Specify manually"
-"repeat" = "Repeat "
+"repeat" = "Repeat"
 "more" = "more"
 "show_welcome_screen" = "Welcome to Moneydance"
 
@@ -2164,5 +2164,12 @@ default_new_budget_name = "Budget"
 "add_attachment" = "Add Attachment"
 "delete_attachment_message" = "Are you sure you'd like to delete the selected attachment?"
 "delete_attachment_title" = "Delete Attachment"
+"repeat_none" = "None"
+"repeat_until_eoy" = "Until end of year"
+"repeat_manually" = "Specify..."
+"budget_copy_and_rollover_prev_period" = "Copy and rollover previous period"
+"budget_copy_prev_period" = "Copy previous period"
+"budget_use_prev_actual" = "Use actual spending from previous period"
+
 
 }
