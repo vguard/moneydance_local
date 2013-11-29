@@ -2170,6 +2170,8 @@ default_new_budget_name = "Budget"
 "budget_copy_and_rollover_prev_period" = "Copy and rollover previous period"
 "budget_copy_prev_period" = "Copy previous period"
 "budget_use_prev_actual" = "Use actual spending from previous period"
-
+"save_backup" = "Export Backup..."
+"select_backup_file" = "Select Archive File"
+"export_completed_message" = "Your data was exported successfully!"
 
 }
