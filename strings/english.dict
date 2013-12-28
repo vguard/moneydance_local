@@ -2174,5 +2174,6 @@ default_new_budget_name = "Budget"
 "save_backup" = "Export Backup..."
 "select_backup_file" = "Select Archive File"
 "export_completed_message" = "Your data was exported successfully!"
+"mixed_interval_budget" = "Mixed Intervals (old style)"
 
 }
