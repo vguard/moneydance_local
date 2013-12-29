@@ -2175,5 +2175,9 @@ default_new_budget_name = "Budget"
 "select_backup_file" = "Select Archive File"
 "export_completed_message" = "Your data was exported successfully!"
 "mixed_interval_budget" = "Mixed Intervals (old style)"
+"report_reconciliation" = "Reconciliation"
+"include_reconciling" = "Include transactions marked as reconciling"
+"graph_expnextmonth" = "Expenses: Next Month"
+"graph_expnext30days" = "Expenses: Next 30 Days"
 
 }
