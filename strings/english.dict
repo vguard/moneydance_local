@@ -2179,5 +2179,5 @@ default_new_budget_name = "Budget"
 "include_reconciling" = "Include transactions marked as reconciling"
 "graph_expnextmonth" = "Expenses: Next Month"
 "graph_expnext30days" = "Expenses: Next 30 Days"
-
+"use_bank_clearance_dates" = "Use Bank Dates for Merged Transactions"
 }
