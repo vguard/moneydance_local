@@ -434,7 +434,7 @@ German	Clemens Lee
 "table_column_price" = "Price"
 "ofx_acct_type_savings" = "Savings"
 "acct_type7000" = "Income Account"
-"memorize_txn" = "Memorize"
+"memorize_txn" = "Create Reminder from Transaction"
 "confirm_delete_reminder" = "Are you sure you want to delete reminder: "
 "ext_info" = "Extension Information"
 "srch_op_union" = "Or (Union)"
