@@ -2181,4 +2181,6 @@ default_new_budget_name = "Budget"
 "graph_expnext30days" = "Expenses: Next 30 Days"
 "use_bank_clearance_dates" = "Use Bank Dates for Merged Transactions"
 "untitled" = "Untitled"
+"show_file_location" = "Show File Location"
+"show_in_finder" = "Show in Finder"
 }
