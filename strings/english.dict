@@ -2185,5 +2185,6 @@ default_new_budget_name = "Budget"
 "show_in_finder" = "Show in Finder"
 "update_all" = "Update All"
 "download_ext_error" = "There was a problem downloading the extension"
+"unable_to_update_passphrase" = "There was an error saving the updated passphrase"
 
 }
