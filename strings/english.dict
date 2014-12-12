@@ -2200,5 +2200,8 @@ default_new_budget_name = "Budget"
 "sync_enter_pass_title" = "Sync Encryption Password"
 "sync_enc_pass" = "Encryption Password"
 "sync_here_is_your_passwd" = "<html>Below is the password used to encrypt your data when syncing over dropbox</html>"
-
+"confirm_del_security" = "Are you sure you'd like to delete {security}?"
+"confirm_del_securities" = "Are you sure you'd like to delete the selected securities?"
+"confirm_del_currency" = "Are you sure you'd like to delete the currency {security}?"
+"confirm_del_currencies" = "Are you sure you'd like to delete the selected currencies?"
 }
