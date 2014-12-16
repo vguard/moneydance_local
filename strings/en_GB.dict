@@ -61,4 +61,6 @@ printed incorrectly and then click OK."
   "bdgt_active" = "Active"
   "bdgt_all" = "All"
   "sec_bankregister_view" = "Bank Register"
+  "waiting_for_authorization" = "Waiting for Authorisation"
+
 }

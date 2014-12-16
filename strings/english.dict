@@ -2204,4 +2204,5 @@ default_new_budget_name = "Budget"
 "confirm_del_securities" = "Are you sure you'd like to delete the selected securities?"
 "confirm_del_currency" = "Are you sure you'd like to delete the currency {security}?"
 "confirm_del_currencies" = "Are you sure you'd like to delete the selected currencies?"
+"waiting_for_authorization" = "Waiting for Authorization"
 }
