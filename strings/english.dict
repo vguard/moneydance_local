@@ -2209,5 +2209,7 @@ default_new_budget_name = "Budget"
 "txn_details" = "Details"
 "please_confirm" = "Please Confirm"
 "wrong_encryption_password_or_data_version" = "Incorrect passphrase.  Please try again"
+"overdue" = "Overdue"
+"upcoming" = "Upcoming"
 
 }
