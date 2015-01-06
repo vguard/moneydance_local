@@ -2241,5 +2241,7 @@ Toute modification du montant de cette transaction pourrait conduire à un 'Sold
   "welcome_import_file_desc" = "Transfert des comptes, transactions et valeurs mobilières depuis un fichier QIF qui a été exporté par une autre application."
   "ext_install" = "Installé"
   "new_account_url_text" = "Saisir l'adresse du site Web que vous utilisez pourl'adresse du site Web que vous utilisez pour télécharger les fichiers OFX/QFX/QIF de ce compte.  Cette information sera mémorisée des les paramètres de ce compte."
+  "overdue" = "En retard"
+  "upcoming" = "À venir"
 
 }

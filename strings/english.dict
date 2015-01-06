@@ -2211,5 +2211,19 @@ default_new_budget_name = "Budget"
 "overdue" = "Overdue"
 "upcoming" = "Upcoming"
 "txn_limit_msg2" = "This is a preview of Moneydance, limited to 100 manually entered transactions.  To remove this limit you will need to purchase a license."
+"undo_del_items" = "Undo Delete {num} items"
+"undo_del_item" = "Undo Delete Item"
+"redo_del_items" = "Redo Delete {num} items"
+"redo_del_item" = "Redo Delete Item"
+
+"undo_mod_item" = "Undo Modify Item"
+"undo_mod_items" = "Undo Modify {num} Items"
+"redo_mod_item" = "Redo Modify Item"
+"redo_mod_items" = "Redo Modify {num} Items"
+
+"undo_add_item" = "Undo New Item"
+"undo_add_items" = "Undo New {num} Items"
+"redo_add_item" = "Redo New Item"
+"redo_add_items" = "Redo New {num} Items"
 
 }
