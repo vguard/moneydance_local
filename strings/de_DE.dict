@@ -1639,10 +1639,7 @@ Dieses Produkt enthält von der RSA Data Security lizensierten Code"
   "action_menu" = "Aktionen"
   "print_checks..." = "Drucke Schecks..."
   
-  * Added labels that where not in file on 09.01.2015 by Marc Kaulisch
- * All from row 1723 and below extracted from english.dict (version 06.01.2015)
- 
-  "undo_add_txn" = "Rückgängig Neue Transaktion"
+"undo_add_txn" = "Rückgängig Neue Transaktion"
 "undo_add_txns" = "Rückgängig Neue {num} Transaktionen"
 "redo_add_txn" = "Wiederhole Neue Transaktion"
 "redo_add_txns" = "Wiederhole Neue {num} Transaktionen"
