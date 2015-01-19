@@ -2226,4 +2226,8 @@ default_new_budget_name = "Budget"
 "redo_add_item" = "Redo New Item"
 "redo_add_items" = "Redo New {num} Items"
 
+"receiving_sync_data" = "Receiving synced data"
+"received_sync_data" = "Received synced data"
+"did_save_data" = "Finished saving data"
+
 }
