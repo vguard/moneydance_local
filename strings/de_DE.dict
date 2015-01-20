@@ -2149,6 +2149,8 @@ Dieses Produkt enthält von der RSA Data Security lizensierten Code"
 "balance_type" = "Saldo Typ"
 "graph_asset_alloc" = "Portfolio-Zusammensetzung"
 
-
+"receiving_sync_data" = "Empfängt synchronisierte Daten"
+"received_sync_data" = "Synchronisierte Daten empfangen"
+"did_save_data" = "Daten sind gespeichert"
 
 }
