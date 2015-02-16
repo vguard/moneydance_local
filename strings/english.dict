@@ -2229,5 +2229,5 @@ default_new_budget_name = "Budget"
 "receiving_sync_data" = "Receiving synced data"
 "received_sync_data" = "Received synced data"
 "did_save_data" = "Finished saving data"
-
+"cost_per_share" = "Cost/Share"
 }
