@@ -2231,4 +2231,8 @@ default_new_budget_name = "Budget"
 "received_sync_data" = "Received synced data"
 "did_save_data" = "Finished saving data"
 "cost_per_share" = "Cost/Share"
+"confirm_del_payee" = "Are you sure you'd like to delete the payee: '{payee}'?"
+"confirm_del_payment" = "Are you sure you'd like to delete the selected payment?"
+"edit_payment_title" = "Edit Online Payment"
+
 }
