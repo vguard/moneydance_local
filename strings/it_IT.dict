@@ -2252,7 +2252,7 @@ un insieme di conti creati in precedenza."
   "received_sync_data" = "Ricevuti dati sincronizzati"
   "did_save_data" = "Finito salvataggio dati"
   "cost_per_share" = "Costo/Azione"
-  "confirm_del_payee" = Sei sicuro di voler eliminare il beneficiario: '{payee}'?"
+  "confirm_del_payee" = "Sei sicuro di voler eliminare il beneficiario: '{payee}'?"
   "confirm_del_payment" = "Sei sicuro di voler eliminare il pagamento selezionato?"
   "edit_payment_title" = "Modifica Pagamento Online"
 
