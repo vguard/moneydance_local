@@ -2243,5 +2243,5 @@ default_new_budget_name = "Budget"
 "debt_payment_pctcurrentbal" = "% of Current Balance"
 "credit_limit" = "Credit Limit"
 "payment_plan" = "Payment Plan"
-
+"high_contrast_setting" = "Increase Color Contrast"
 }
