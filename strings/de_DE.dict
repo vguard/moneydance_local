@@ -2152,9 +2152,7 @@ Dieses Produkt enthält von der RSA Data Security lizensierten Code"
 "receiving_sync_data" = "Empfängt synchronisierte Daten"
 "received_sync_data" = "Synchronisierte Daten empfangen"
 "did_save_data" = "Daten sind gespeichert"
-
 "cost_per_share" = "Kosten je Wertpapier"
-
 "confirm_del_payee" = "Sind Sie sicher diesen Empfänger zu löschen: '{payee}'?"
 "confirm_del_payment" = "Sind Sie sicher die ausgewählte Zahlung zu löschen?"
 "edit_payment_title" = "Bearbeite Online Zahlung"
