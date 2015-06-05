@@ -2155,4 +2155,22 @@ Dieses Produkt enthält von der RSA Data Security lizensierten Code"
 
 "cost_per_share" = "Kosten je Wertpapier"
 
+"confirm_del_payee" = "Sind Sie sicher diesen Empfänger zu löschen: '{payee}'?"
+"confirm_del_payment" = "Sind Sie sicher die ausgewählte Zahlung zu löschen?"
+"edit_payment_title" = "Bearbeite Online Zahlung"
+"apr_until" = "bis"
+"apr_then" = "dann"
+"debt_payment_fixed" = "Fixed"
+"debt_payment_clearedbal" = "Cleared Balance"
+"debt_payment_currentbal" = "Current Balance"
+"debt_payment_pctclearedbal" = "% of Cleared Balance"
+"debt_payment_pctcurrentbal" = "% of Current Balance"
+"credit_limit" = "Kreditlimit"
+"payment_plan" = "Zahlungsplan"
+"high_contrast_setting" = "Erhöhe Farbkontrast"
+
+
+
+
+
 }
