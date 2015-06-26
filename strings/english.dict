@@ -777,7 +777,7 @@ to continue."
 "graph_line" = "Line Graph"
 "olb_service" = "Online Banking Service"
 "new_transaction_on_record" = "Auto-create New Transactions"
-"ask_delete_cleared_txn" = "Warning: You are attempting to delete a transaction that has already been marked as 'Cleared' or 'Reconciling'.
+"ask_delete_cleared_txn" = "Warning: You are attempting to delete a transaction that has already been marked as 'Cleared'.
 
 Deleting this transaction could result in an incorrect 'Cleared Balance.' This may affect your 'Beginning Statement Balance' the next time you attempt to reconcile this account.  Would you like to record this change?"
 
