@@ -2256,5 +2256,10 @@ default_new_budget_name = "Budget"
 "rating_no_not_now" = "Not now, please"
 "rating_no_not_this_version" = "Not for this version"
 "rating_no_never" = "Never ask me again"
+
+"dont_adjust_rate" = "Don't automatically adjust rates or prices"
+"adjust_other_amount" = "Adjust foreign amount when updating rates/prices"
+"adjust_local_amount" = "Adjust local amount when updating rates/prices"
+
 }
 
