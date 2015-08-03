@@ -1988,6 +1988,7 @@ default_new_budget_name = "Budget"
 "accept_oltxns_label" = "Press {keystroke} to confirm the {numtxns} selected transactions"
 "orig_oltxn_label" = "Original date: {orig_date}  description: {orig_desc}  memo: {orig_memo}"
 "duplicate_txn" = "Duplicate Transaction"
+"duplicate_chknum" = "Duplicate Check Number"
 
 "import_price_hist" = "Import Price History"
 "import_price_hist_error" = "An error occurred while importing the data. One or more items failed to import."
