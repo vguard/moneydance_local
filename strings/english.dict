@@ -2264,7 +2264,7 @@ default_new_budget_name = "Budget"
 "adjust_other_amount" = "Adjust foreign amount when updating rates/prices"
 "adjust_local_amount" = "Adjust local amount when updating rates/prices"
 
-"desc_memo_same_line" = "Show Description and Memo on single line"
+"desc_memo_same_line" = "Show memo on same line as transaction"
 
 }
 
