@@ -2270,6 +2270,7 @@ default_new_budget_name = "Budget"
 "adjust_local_amount" = "Adjust local amount when updating rates/prices"
 
 "desc_memo_same_line" = "Show memo on same line as transaction"
+"theme_name" = "Theme"
 
 }
 
