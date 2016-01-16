@@ -2271,6 +2271,8 @@ default_new_budget_name = "Budget"
 
 "desc_memo_same_line" = "Show memo on same line as transaction"
 "theme_name" = "Theme"
+"custom" = "Custom"
+"high_contrast" = "High Contrast"
 
 }
 
