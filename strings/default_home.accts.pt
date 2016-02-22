@@ -1,0 +1,614 @@
+{
+"root" = {
+"acct_name" = "Minhas Finanças"
+"settings" = {
+}
+
+"sub_accounts" = (
+{
+"acct_type" = "BANK"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Corrente"
+}
+{
+"acct_type" = "BANK"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Poupança"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Taxa Bancária"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Juros"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Taxas de Serviço"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Diversos"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Caixa Eletrônica"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Dinheiro"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Taxa de Serviço"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Crianças"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Educação"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Livros"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Taxas"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Aulas Particulares"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Saúde"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Dentista"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Visão"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Hospital"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Médico"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Receituários"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Animais de Estimação"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Comida"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Suplementos Saude"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Veterinário"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Seguro"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Automóvel"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Saúde"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Casa"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Vida"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Impostos"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Imposto de Renda"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "IMI"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Taxas Diversas"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Imposto Predial"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Previdência Privada"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Férias"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Alojamento"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Viagem"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Automovel"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Serviços"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Combustível"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Diversos"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Casa"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Manutenção"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Mobília"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Eletrodomésticos"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Diversos"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Empréstimo"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Pagamento"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Juros"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Pessoal"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Cuidado Pessoal"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Entretenimento"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Alimentação"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Computador"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Diversos"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Gêneros Alimentícios"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Restaurante"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Presentes"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Doações"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Livros/Revistas"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Teatro"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Cinema"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Equipamento Esportivo"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Eventos Esportivos"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Música"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Contas"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Telefone"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "TV a Cabo"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Eletricidade"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "IPTV"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Taxas Diversas"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Juros de Hipoteca"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Aluguer"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Água/Esgoto"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Gás"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Condomínio"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Trabalho"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Despesa Reembolsada"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Despesa Não-Reembolsada"
+}
+)
+
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Investimentos"
+"sub_accounts" = (
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Comissão"
+}
+)
+
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Investmentos"
+"sub_accounts" = (
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Dividendos"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Juros"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Ganhos em Aplicações de Longo Prazo"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Ganhos em Aplicações de Curto Prazo"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Juros Isentos de Imposto"
+}
+)
+
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Salário"
+"sub_accounts" = (
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Contra-cheque"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Commissão"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Bônus"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Reembolso em Viagem"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Hora Extra"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Descontos"
+}
+)
+
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Outras Rendas"
+"sub_accounts" = (
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Bônus por Dependente"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Presentes Recebidos"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Herança"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Loterias"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Devolução de Imposto de Renda"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Seguro Desemprego."
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Pagamento por Consultoria"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Serviços Autônomos"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Pensões"
+}
+)
+
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Aposentadoria"
+"sub_accounts" = (
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Previdência Privada"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Pensões/Anuidades"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Segurança Social"
+}
+)
+
+}
+)
+
+}
+
+}

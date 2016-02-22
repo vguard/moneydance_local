@@ -86,7 +86,7 @@
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "IPTU"
+"acct_name" = "IPTV"
 }
 {
 "acct_type" = "EXPENSE"
