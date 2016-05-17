@@ -2281,6 +2281,7 @@ default_new_budget_name = "Budget"
 "run_python_title" = "Python Interpreter"
 "run_script" = "Run"
 "stop_script" = "Stop"
+"open_synced_filed" = "Open Synced File..."
 
 }
 
