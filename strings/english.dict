@@ -2291,5 +2291,8 @@ default_new_budget_name = "Budget"
 "stop_script" = "Stop"
 "open_synced_filed" = "Open Synced File..."
 
+"repair" = "Repair data"
+"error_loading_title" = "Error loading data"
+"error_loading_msg" = "There was an error loading your data."
 }
 
