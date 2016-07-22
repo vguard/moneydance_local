@@ -63,5 +63,6 @@ printed incorrectly and then click OK."
   "sec_bankregister_view" = "Bank Register"
   "waiting_for_authorization" = "Waiting for Authorisation"
   "high_contrast_setting" = "Increase Colour Contrast"
+  "dropbox_login" = "Authorise with Dropbox"
 
 }
