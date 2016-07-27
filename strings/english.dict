@@ -2310,5 +2310,7 @@ default_new_budget_name = "Budget"
 "repair" = "Repair data"
 "error_loading_title" = "Error loading data"
 "error_loading_msg" = "There was an error loading your data."
+"format_raw_json" = "Raw JSON"
+
 }
 
