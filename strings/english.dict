@@ -133,6 +133,7 @@
 "p_bkup_es" = "Save a backup every time you save"
 "p_bkup_esp" = "Save a backup every time you save"
 "p_bkup_daily" = "Save backup daily"
+"p_bkup_first_open" = "Create new backup only once per day"
 "ofx_signup_done" = "Moneydance now has most of the information needed to connect to your financial institution for this account.  Click the 'Finish' button below to complete the process.
 "
 "account_info_title" = "Account Info"
