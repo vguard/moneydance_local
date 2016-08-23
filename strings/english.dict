@@ -2307,7 +2307,7 @@ default_new_budget_name = "Budget"
 "conn_state_connecting" = "Connecting"
 "conn_state_authorising" = "Authorizing"
 "dropboxapi_sync_instructions" = "Sync by connecting to your Dropbox account. Moneydance will communicate with the Dropbox service if you authorise it to access your files."
-"dropboxfolder_sync_instructions" = "Sync using the Dropbox folder on this computer. This will allow Moneydance to process synced data even if you're not connected to the Internet."
+"dropboxfolder_sync_instructions" = "Sync using the Dropbox folder on this computer. This will allow Moneydance to process synced data even if you're not connected to the Internet at the time."
 "folder_sync_instructions" = "Sync using a folder that you specify that is shared across computers or devices"
 "no_folder_selected" = "No Folder Selected"
 "choose_folder" = "Choose Folder"
@@ -2316,6 +2316,11 @@ default_new_budget_name = "Budget"
 "error_loading_title" = "Error loading data"
 "error_loading_msg" = "There was an error loading your data."
 "format_raw_json" = "Raw JSON"
+"finding_syncable_files" = "Finding syncable files..."
+"found_syncable_files" = "Select a synced document to open"
+"no_syncable_files_found" = "No synced documents were found"
+
+"sync_password_entry_msg" = "Enter the encryption password used to sync this document"
 
 }
 
