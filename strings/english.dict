@@ -2321,6 +2321,7 @@ default_new_budget_name = "Budget"
 "no_syncable_files_found" = "No synced documents were found"
 
 "sync_password_entry_msg" = "Enter the encryption password used to sync this document"
+"sync_error_secondary_with_no_sync_method" = "Error: no sync method on a secondary node"
 
 }
 
