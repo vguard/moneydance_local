@@ -2101,7 +2101,7 @@ default_new_budget_name = "Budget"
 "choose_import_file" = "Selecteer een importbestand"
 "move_internal_storage_title" = "Converteer en importeer een bestand"
 
-"migrate_file_internal_desc" = "Het bestand dat u heeft geselecteerd zal worden toegevoegd aan uw Moneydance bebliotheek en omgezet naar het nieuwe 2015 formaat.  Het originele bestand zal worden verplaatst naar de Moneydance Archiefmap."
+"migrate_file_internal_desc" = "Het bestand dat u heeft geselecteerd zal worden toegevoegd aan uw Moneydance bebliotheek en omgezet naar het nieuwe formaat.  Het originele bestand zal worden verplaatst naar de Moneydance Archiefmap."
 "migrate_file_continue" = "Converteren en importeren"
 "migrate_file_continue_external" = "Alleen converteren"
 "error_creating_file" = "Sorry, er is een fout opgetreden bij het maken van het bestand"

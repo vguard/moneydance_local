@@ -2158,7 +2158,7 @@ default_new_budget_name = "Budget"
 "choose_import_file" = "Select a File to Import"
 "move_internal_storage_title" = "Convert and Import File"
 
-"migrate_file_internal_desc" = "The file you selected will be added to your Moneydance library and converted to the new 2015 format.  The original file will be moved to the Moneydance Archive folder."
+"migrate_file_internal_desc" = "The file you selected will be added to your Moneydance library and converted to the new format.  The original file will be moved to the Moneydance Archive folder."
 "migrate_file_continue" = "Convert and Import"
 "migrate_file_continue_external" = "Convert Only"
 "error_creating_file" = "Sorry, there was a problem creating the file"

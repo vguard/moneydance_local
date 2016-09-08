@@ -2152,7 +2152,7 @@ default_new_budget_name = "Orçamento"
 "choose_import_file" = "Selecione um ficheiro a importar"
 "move_internal_storage_title" = "Converter e importar ficheiro"
 
-"migrate_file_internal_desc" = "O Ficheiro que selecionou vai ser adicionado ao seu Moneydance e convertido em um ficheiro com o novo formato 2015.  O Ficheiro Original vai ser movido para a pasta de arquivos do Moneydance"
+"migrate_file_internal_desc" = "O Ficheiro que selecionou vai ser adicionado ao seu Moneydance e convertido em um ficheiro com o novo formato.  O Ficheiro Original vai ser movido para a pasta de arquivos do Moneydance"
 "migrate_file_continue" = "Convertir e Importar"
 "migrate_file_continue_external" = "Só Convertir"
 "error_creating_file" = "Desculpe, existiu um problema ao criar o ficheiro"

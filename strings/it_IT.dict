@@ -917,7 +917,7 @@
 "merge_txn" = "Unisci"
 "migrate_file_continue" = "Converti e Importa"
 "migrate_file_continue_external" = "Converti Solamente"
-"migrate_file_internal_desc" = "Il file selezionato verrà aggiunto alla libreria di Moneydance e convertito nel nuovo formato 2015.  Il file originale verrà spostato nella cartella d'Archivio di Moneydance."
+"migrate_file_internal_desc" = "Il file selezionato verrà aggiunto alla libreria di Moneydance e convertito nel nuovo formato.  Il file originale verrà spostato nella cartella d'Archivio di Moneydance."
 "minimize_window" = "Minimizza"
 "misc_error" = "Siamo spiacenti, si è verificato un errore. I dettagli dell'errore sono i seguenti."
 "misc_exp" = "Uscite varie da Investimenti"

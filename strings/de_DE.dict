@@ -2058,7 +2058,7 @@ Dieses Produkt enthält von der RSA Data Security lizensierten Code"
 "choose_import_file" = "Datei zum Import auswählen"
 "move_internal_storage_title" = "Konvertiere und Importiere Datei"
 
-"migrate_file_internal_desc" = "Die ausgewählte Datei wird zur Moneydance Bibliothek hinzugefügt und in das neue 2015 Format konvertiert.  Die ursprüngliche datei wird in das Moneydance Archiv verschoben."
+"migrate_file_internal_desc" = "Die ausgewählte Datei wird zur Moneydance Bibliothek hinzugefügt und in das neue Format konvertiert.  Die ursprüngliche datei wird in das Moneydance Archiv verschoben."
 "migrate_file_continue" = "Konvertiere und Importiere"
 "migrate_file_continue_external" = "Konvertiere Nur"
 "error_creating_file" = "Sorry, es gab einen Fehler beim Erstellen der Datei"
