@@ -2283,11 +2283,13 @@ default_new_budget_name = "Budget"
 "desc_memo_same_line" = "Show memo on same line as transaction"
 
 "theme_name" = "Theme"
-"custom" = "Custom"
-"high_contrast" = "High Contrast"
-"classic" = "Classic"
-"solarized_dark" = "Solarized Dark"
-"solarized_light" = "Solarized Light"
+"theme_name_default" = "Default"
+"theme_name_custom" = "Custom"
+"theme_name_high_contrast" = "High Contrast"
+"theme_name_classic" = "Classic"
+"theme_name_solarized_dark" = "Solarized Dark"
+"theme_name_solarized_light" = "Solarized Light"
+"customize_theme" = "Customize..."
 
 "open_script" = "Open Script"
 "new_script" = "New Script"
@@ -2323,6 +2325,10 @@ default_new_budget_name = "Budget"
 
 "sync_password_entry_msg" = "Enter the encryption password used to sync this document"
 "sync_error_secondary_with_no_sync_method" = "Error: no sync method on a secondary node"
+
+"overwrite_theme_conf_title" = "Overwrite Custom Theme"
+"overwrite_theme_conf_text" = "Customizing this theme will overwrite the settings in the existing custom theme with those from {theme}"
+"error_saving_theme" = "There was an error saving the theme file"
 
 }
 
