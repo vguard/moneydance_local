@@ -2329,6 +2329,8 @@ default_new_budget_name = "Budget"
 "overwrite_theme_conf_title" = "Overwrite Custom Theme"
 "overwrite_theme_conf_text" = "Customizing this theme will overwrite the settings in the existing custom theme with those from {theme}"
 "error_saving_theme" = "There was an error saving the theme file"
+"edit_theme" = "Customize Theme"
+"edit_them_overwrite_warning" = "Note: changing these settings will overwrite your customized theme"
 
 }
 
