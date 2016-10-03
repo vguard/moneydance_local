@@ -2331,6 +2331,7 @@ default_new_budget_name = "Budget"
 "error_saving_theme" = "There was an error saving the theme file"
 "edit_theme" = "Customize Theme"
 "edit_them_overwrite_warning" = "Note: changing these settings will overwrite your customized theme"
+"shutting_down" = "Closing Moneydance..."
 
 }
 
