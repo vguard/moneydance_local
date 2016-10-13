@@ -2293,6 +2293,8 @@ default_new_budget_name = "Budget"
 
 "open_script" = "Open Script"
 "new_script" = "New Script"
+"edit_script" = "Edit Script"
+"close_edit_script" = "Close Editor"
 "open_script_title" = "Open Script File"
 "new_script_title" = "Save New Script File"
 "show_python_console" = "Show Python Console"
