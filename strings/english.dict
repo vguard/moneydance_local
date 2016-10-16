@@ -2337,5 +2337,7 @@ default_new_budget_name = "Budget"
 "closing_and_syncing_changes" = "Closing file and syncing changes"
 "backing_up" = "Backing up file"
 
+"install_extension_from_script_q" = "The script contained an extension.  Would you like to install it?"
+
 }
 
