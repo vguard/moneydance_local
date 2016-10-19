@@ -2340,6 +2340,9 @@ default_new_budget_name = "Budget"
 "install_extension_from_script_q" = "The script contained an extension.  Would you like to install it?"
 "internal_files" = "Files"
 "external_files" = "Other Files"
+"show_upcoming_two_weeks" = "Two Weeks"
+"show_upcoming_one_month" = "One Month"
+"show_upcoming_this_month" = "This Month"
 
 }
 
