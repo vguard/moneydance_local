@@ -9,20 +9,14 @@
   "selected_checks" = "Selected Cheques..."
   "sortby_status_check#" = "Status/Cheque#"
   "report_missingchecks" = "Missing Cheques"
-  "new_file_desc1" = "This account structure has a minimal set of accounts.  This
-is useful if you would like to import existing data from another
-accounting package."
-  "new_file_desc0" = "(Recommended)  This account structure contains one chequeing
-account and most common income and expense accounts."
+  "new_file_desc1" = "This account structure has a minimal set of categories, which is useful if you're importing data from another app, or if you'd just like to keep things simple."
+  "new_file_desc0" = "(Recommended)  This account structure contains one current account and most common income and expense accounts."
   "printchk_verify" = "Verify Printed Cheques"
   "txn_checknum" = "Cheque#"
   "checks_through_date" = "Cheques Through"
   "printchk_first_err_text1" = "If cheques "
   "printchk_first_err_text2" = " through "
-  "printchk_first_err_text3" = " printed correctly, 
-click OK to continue.  Otherwise, type 
-the number of the first cheque which 
-printed incorrectly and then click OK."
+  "printchk_first_err_text3" = " printed correctly, click OK to continue.  Otherwise, type the number of the first cheque which printed incorrectly and then click OK."
   "next_check_num" = "Next Cheque #"
   "all_checks" = "All Cheques"
   "printadj_num_checks" = "Cheques per Page"
