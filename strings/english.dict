@@ -2343,6 +2343,16 @@ default_new_budget_name = "Budget"
 "show_upcoming_two_weeks" = "Two Weeks"
 "show_upcoming_one_month" = "One Month"
 "show_upcoming_this_month" = "This Month"
+"ignore" = "Ignore"
+"no_fields_err" = "Please select at least one field to import"
+"more_fields" = "More Fields"
+"fewer_fields" = "Fewer Fields"
+"field_exp" = "Please select the fields that are in the text file.  The specified fields will be extracted, in order, from each line of the file that you are importing."
+"day" = "Day"
+"text_snippet" = "Text Snippet"
+"field_delimiter" = "Field Delimiter"
+"date_fmt" = "Date Format"
+"decimal_point" = "Decimal Point"
 
 }
 
