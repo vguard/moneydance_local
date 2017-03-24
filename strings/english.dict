@@ -2355,5 +2355,6 @@ default_new_budget_name = "Budget"
 "decimal_point" = "Decimal Point"
 "debit_amount" = "Debit Amount"
 "credit_amount" = "Credit Amount"
+"initial_sync_msg" = "Performing initial sync.  This may take a while..."
 }
 
