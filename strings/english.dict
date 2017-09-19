@@ -2364,6 +2364,7 @@ default_new_budget_name = "Budget"
 "generic_error_message" = "An unexpected error occurred"
 "encryption_error" = "Invalid password or other decryption error"
 "certificate_error" = "Unable to establish a trusted connection to a service"
-
+"import_error_msg" = "There was an error importing the file '{filename}': {error}"
+"unknown_file_type" = "Unknown file type"
 }
 
