@@ -785,7 +785,7 @@ Por favor ponga el numero de meses que le gustaria usar para calcular su presupu
   "bdgt_calc_months" = "Meses"
   "finish" = "Finalizar"
   "cancel_payment" = "Cancelar pago"
-  "acct_type6000S" = "GASTOS"
+  "acct_type6000S" = "BANCOS"
   "sec_positiveshort_msg" = "Error: Usted no puede vender acciones al corto cuando usted es el propietario de esas  acciones. Esta transacción será convertida a una venta estándar."
   "sec_tickersym" = "Simbolo del Ticker"
   "ofx_pin_mismatch" = "Usted escribio dos codigos que no son iguales"
@@ -1142,7 +1142,7 @@ entre "
   "graph..." = "Grafico..."
   "loading_file" = "Cargando fichero"
   "reg_msg" = "Esta Version de Moneydance no ha sido registrada.
-Por Favor visite http://moneydance.com/purchase para
+Por Favor visite https://infinitekind.com/purchase para
 adquirir su copia de Moneydance.
 "
   "online_update" = "Actualizar en Linea"
@@ -1194,8 +1194,7 @@ grupo de cuentas de otra cuenta."
   "sec_num_shares" = "Acciones"
   "acct_type4000" = "Cuenta de Seguridad"
   "ofx_signup_done" = "Moneydance tiene la mayoria de la informacion necesitada para /nconectarse a su institucion bancaria para esta cuenta.
-Click en el boton de  de abajo 'Finalizar' para completar este proceso.
-"
+Click en el boton de  de abajo 'Finalizar' para completar este proceso."
   "curr_del" = "Remover"
   "archive_only_clrd" = "Archivar Solo las Transacciones Limpias"
   "printadj_stub_payee_y" = "Talonario del Beneficiario Y"
@@ -1210,14 +1209,9 @@ Click en el boton de  de abajo 'Finalizar' para completar este proceso.
   "sec_price" = "Precio"
   "reconcile" = "Reconciliar"
   "invalid_key" = "El codigo de la licencia esta incorrecto.Por Favor trate de nuevo"
-  "invst_port_val" = "Valor De la Lista
-"
+  "invst_port_val" = "Valor De la Lista"
   "skip_txn" = "Borrar"
-  "address" = "Direccion
-
-
-
-"
+  "address" = "Direccion"
   "acct_value" = "Valor de la Cuenta"
   "index" = "Índece"
   "sec_buywhenshort_msg" = "Error:  Usted no puede comprar acciones cuando tiene una deuda  . Esta transacción será convertida en una compra para cubrir su deuda"
@@ -1231,8 +1225,7 @@ Click en el boton de  de abajo 'Finalizar' para completar este proceso.
   "is_reg_desc" = "Esta copia de Moneydance esta registrada. Gracias por su respaldo!"
   "format_commadel" = "Separados por comas"
   "existing_account" = "Cuenta Existente"
-  "last_year" = "Año pasado
-"
+  "last_year" = "Año pasado"
   "bp_bankid" = "Banco ID"
   "nothing_to_print" = "No hay nada que imprimir"
   "table_column_rate" = "Tarifa"
@@ -1277,4 +1270,11 @@ Click en el boton de  de abajo 'Finalizar' para completar este proceso.
   "bdgt_all" = "Todos"
   "sec_bankregister_view" = "Registro de Banco"
   "graphs_and_reports" = "Informes Y Gráficos"
+  "REPGRAPHS" = "INFORMES Y GRÁFICOS"
+  "upcoming" = "Próximamente"
+  "show_upcoming_two_weeks" = "Dos Semanas"
+  "show_upcoming_one_month" = "Un Mes"
+  "show_upcoming_this_month" = "Este Mes"
+  "overdue" = "Atrasado"
+
 }
