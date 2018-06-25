@@ -1293,10 +1293,14 @@ Click en el boton de  de abajo 'Finalizar' para completar este proceso."
   "graph_expthisyear" = "Gastos: Este año"
   "graph_explast30days" = "Gastos: Ultimos 30 días"
   "graph_explast365days" = "Gastos: Ultimos 365 días"
+  "graph_explastmonth" = "Gastos: Ultimo mes"
+  "graph_expnextmonth" = "Gastos: Mes siguiente"
+  "graph_expnext30days" = "Gastos: Próximos 30 días"
   "graph_incthismonth" = "Ingresos: Este mes"
   "graph_incthisyear" = "Ingresos: Este año"
   "graph_inclast30days" = "Ingresos: Ultimos 30 días"
   "graph_inclast365days" = "Ingresos: Ultimos 365 días"
-
+  "graph_inclastmonth" = "Ingresos: Ultimo mes"
+ 
 
 }
