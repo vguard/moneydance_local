@@ -2367,5 +2367,12 @@ default_new_budget_name = "Budget"
 "certificate_error" = "Unable to establish a trusted connection to a service"
 "import_error_msg" = "There was an error importing the file '{filename}': {error}"
 "unknown_file_type" = "Unknown file type"
+
+"moneybot" = "MoneyBot"
+"show_source_code" = "Show Source"
+"show_moneybot_console" = "Show MoneyBot Console"
+"python_snippet" = "Python Snippet"
+"run_snippet" = "Run Snippet"
+
 }
 
