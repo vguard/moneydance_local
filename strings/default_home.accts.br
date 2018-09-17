@@ -530,7 +530,7 @@
 {
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Horas Extras"
+"acct_name" = "Hora Extra"
 "tax_cat" = "460"
 }
 )
