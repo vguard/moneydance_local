@@ -23,12 +23,12 @@
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Juros"
+"acct_name" = "Juro Pago"
 }
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Taxas de Serviço"
+"acct_name" = "Taxa de Serviço"
 }
 )
 
@@ -41,7 +41,7 @@
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Caixa Eletrônico"
+"acct_name" = "Saque no Caixa Eletrônico"
 "sub_accounts" = (
 {
 "acct_type" = "EXPENSE"
@@ -59,7 +59,7 @@
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Crianças"
+"acct_name" = "Cuidador de Criança"
 }
 {
 "acct_type" = "EXPENSE"
@@ -79,7 +79,7 @@
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Aulas Particulares"
+"acct_name" = "Mensalidade Escolar"
 }
 )
 
@@ -88,31 +88,37 @@
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
 "acct_name" = "Saúde"
+"tax_cat" = "273"
 "sub_accounts" = (
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Dentário"
+"acct_name" = "Dental"
+"tax_cat" = "484"
 }
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
 "acct_name" = "Visão"
+"tax_cat" = "484"
 }
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
 "acct_name" = "Hospital"
+"tax_cat" = "484"
 }
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
 "acct_name" = "Médico"
+"tax_cat" = "484"
 }
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Receituários"
+"acct_name" = "Medicamentos"
+"tax_cat" = "273"
 }
 )
 
@@ -120,7 +126,7 @@
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Animais de Estimação"
+"acct_name" = "Animal de Estimação"
 "sub_accounts" = (
 {
 "acct_type" = "EXPENSE"
@@ -171,33 +177,28 @@
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Impostos"
+"acct_name" = "Imposto"
 "sub_accounts" = (
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
 "acct_name" = "Imposto de Renda"
+"tax_cat" = "461"
+}
+
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "IPTU"
+"tax_cat" = "276"
 }
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
 "acct_name" = "INSS"
+"tax_cat" = "462"
 }
-{
-"acct_type" = "EXPENSE"
-"currency_type" = "*DEFAULT*"
-"acct_name" = "Taxas Diversas"
-}
-{
-"acct_type" = "EXPENSE"
-"currency_type" = "*DEFAULT*"
-"acct_name" = "Imposto Predial"
-}
-{
-"acct_type" = "EXPENSE"
-"currency_type" = "*DEFAULT*"
-"acct_name" = "Previdência Privada"
-}
+
 )
 
 }
@@ -209,7 +210,7 @@
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Alojamento"
+"acct_name" = "Hospedagem"
 }
 {
 "acct_type" = "EXPENSE"
@@ -227,7 +228,7 @@
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Serviços"
+"acct_name" = "Revisão"
 }
 {
 "acct_type" = "EXPENSE"
@@ -255,12 +256,12 @@
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Mobília"
+"acct_name" = "Gramado & Jardim"
 }
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Eletrodomésticos"
+"acct_name" = "Mobiliário"
 }
 {
 "acct_type" = "EXPENSE"
@@ -283,7 +284,7 @@
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Juros"
+"acct_name" = "Juro"
 }
 )
 
@@ -316,12 +317,17 @@
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
+"acct_name" = "Vestuário"
+}
+{
+"acct_type" = "EXPENSE"
+"currency_type" = "*DEFAULT*"
 "acct_name" = "Diversos"
 }
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Gêneros Alimentícios"
+"acct_name" = "Mantimentos"
 }
 {
 "acct_type" = "EXPENSE"
@@ -351,12 +357,7 @@
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Cinema"
-}
-{
-"acct_type" = "EXPENSE"
-"currency_type" = "*DEFAULT*"
-"acct_name" = "Equipamento Esportivo"
+"acct_name" = "Artigo Esportivo"
 }
 {
 "acct_type" = "EXPENSE"
@@ -384,7 +385,7 @@
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "TV a Cabo"
+"acct_name" = "Televisão"
 }
 {
 "acct_type" = "EXPENSE"
@@ -394,17 +395,17 @@
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "IPTU"
+"acct_name" = "Lixo"
 }
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Taxas Diversas"
+"acct_name" = "Taxa de Condomínio"
 }
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Juros de Hipoteca"
+"acct_name" = "Juro Hipotecário"
 }
 {
 "acct_type" = "EXPENSE"
@@ -420,11 +421,6 @@
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
 "acct_name" = "Gás"
-}
-{
-"acct_type" = "EXPENSE"
-"currency_type" = "*DEFAULT*"
-"acct_name" = "Condomínio"
 }
 )
 
@@ -442,7 +438,7 @@
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Despesa Não-Reembolsada"
+"acct_name" = "Despesa não Reembolsada"
 }
 )
 
@@ -450,12 +446,12 @@
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Investimentos"
+"acct_name" = "Investimento"
 "sub_accounts" = (
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Comissão"
+"acct_name" = "Corretagem"
 }
 )
 
@@ -463,32 +459,41 @@
 {
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Investmentos"
+"acct_name" = "Saldo Inicial"
+}
+{
+"acct_type" = "INCOME"
+"currency_type" = "*DEFAULT*"
+"acct_name" = "Investimento"
 "sub_accounts" = (
 {
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
 "acct_name" = "Dividendos"
+"tax_cat" = "286"
 }
 {
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Juros"
+"acct_name" = "Juro Recebido"
+"tax_cat" = "287"
 }
 {
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Ganhos em Aplicações de Longo Prazo"
+"acct_name" = "Ganhos de Capital a Longo Prazo"
+"tax_cat" = "323"
 }
 {
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Ganhos em Aplicações de Curto Prazo"
+"acct_name" = "Ganhos de Capital a Curto Prazo"
+"tax_cat" = "321"
 }
 {
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Juros Isentos de Imposto"
+"acct_name" = "Juro Isento de Imposto"
 }
 )
 
@@ -497,36 +502,36 @@
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
 "acct_name" = "Salário"
+"tax_cat" = "460"
 "sub_accounts" = (
 {
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Contra-cheque"
+"acct_name" = "Contracheque"
+"tax_cat" = "460"
 }
 {
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Commissão"
+"acct_name" = "Comissão"
 }
 {
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
 "acct_name" = "Bônus"
+"tax_cat" = "460"
 }
 {
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Reembolso em Viagem"
+"acct_name" = "Reembolso de Viagem"
+"tax_cat" = "257"
 }
 {
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
 "acct_name" = "Hora Extra"
-}
-{
-"acct_type" = "INCOME"
-"currency_type" = "*DEFAULT*"
-"acct_name" = "Descontos"
+"tax_cat" = "460"
 }
 )
 
@@ -534,22 +539,24 @@
 {
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Outras Rendas"
+"acct_name" = "Outros Rendimentos"
+"tax_cat" = "257"
 "sub_accounts" = (
 {
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Bônus por Dependente"
+"acct_name" = "Pensão Alimentícia"
 }
 {
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
 "acct_name" = "Presentes Recebidos"
+"tax_cat" = "259"
 }
 {
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Herança"
+"acct_name" = "Principal do Empréstimo Recebido"
 }
 {
 "acct_type" = "INCOME"
@@ -559,27 +566,19 @@
 {
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Devolução de Imposto de Renda"
+"acct_name" = "Restituição do Imposto de Renda"
 }
 {
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Seguro Desemprego."
+"acct_name" = "Seguro-Desemprego"
+"tax_cat" = "479"
 }
 {
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Pagamento por Consultoria"
-}
-{
-"acct_type" = "INCOME"
-"currency_type" = "*DEFAULT*"
-"acct_name" = "Serviços Autônomos"
-}
-{
-"acct_type" = "INCOME"
-"currency_type" = "*DEFAULT*"
-"acct_name" = "Pensões"
+"acct_name" = "Consultoria"
+"tax_cat" = "257"
 }
 )
 
@@ -588,21 +587,25 @@
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
 "acct_name" = "Aposentadoria"
+"tax_cat" = "519"
 "sub_accounts" = (
 {
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
 "acct_name" = "Previdência Privada"
+"tax_cat" = "666"
 }
 {
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
 "acct_name" = "Pensões/Anuidades"
+"tax_cat" = "671"
 }
 {
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
 "acct_name" = "Previdência Social"
+"tax_cat" = "266"
 }
 )
 

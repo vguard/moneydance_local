@@ -48,7 +48,7 @@
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Gêneros Alimentícios"
+"acct_name" = "Mantimentos"
 }
 {
 "acct_type" = "EXPENSE"
@@ -76,7 +76,7 @@
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "TV a Cabo"
+"acct_name" = "Televisão"
 }
 {
 "acct_type" = "EXPENSE"
@@ -86,12 +86,12 @@
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "IPTU"
+"acct_name" = "Lixo"
 }
 {
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Aluguer"
+"acct_name" = "Aluguel"
 }
 {
 "acct_type" = "EXPENSE"
@@ -102,11 +102,6 @@
 "acct_type" = "EXPENSE"
 "currency_type" = "*DEFAULT*"
 "acct_name" = "Gás"
-}
-{
-"acct_type" = "EXPENSE"
-"currency_type" = "*DEFAULT*"
-"acct_name" = "Condomínio"
 }
 )
 
@@ -119,17 +114,19 @@
 {
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Contra-cheque"
+"acct_name" = "Contracheque"
+"tax_cat" = "460"
 }
 {
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
-"acct_name" = "Commissão"
+"acct_name" = "Comissão"
 }
 {
 "acct_type" = "INCOME"
 "currency_type" = "*DEFAULT*"
 "acct_name" = "Bônus"
+"tax_cat" = "460"
 }
 )
 
@@ -139,3 +136,4 @@
 }
 
 }
+ 
