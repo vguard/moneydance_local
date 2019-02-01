@@ -2373,8 +2373,6 @@ default_new_budget_name = "Budget"
 "show_moneybot_console" = "Show MoneyBot Console"
 "python_snippet" = "Python Snippet"
 "run_snippet" = "Run Snippet"
-"web_browser" = "Browser"
-"script_tool" = "Script"
 
 }
 
