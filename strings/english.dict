@@ -2383,7 +2383,7 @@ default_new_budget_name = "Budget"
 "decimal_point_," = "Comma (,)"
 "print_page_setup" = "Page Setup..."
 "pref_autocommit_reminders" = "Auto-commit Reminders (applies to current file on this computer)"
-"theme_change_msg" = "Theme changes will be applied upon restart"
+"theme_change_msg" = "Theme changes will be applied Moneydance is restarted"
 
 }
 
