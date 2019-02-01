@@ -2375,7 +2375,6 @@ default_new_budget_name = "Budget"
 "run_snippet" = "Run Snippet"
 "web_browser" = "Browser"
 "script_tool" = "Script"
-"download" = "Download"
 
 }
 
