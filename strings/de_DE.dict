@@ -222,7 +222,7 @@
   "ofx_pin_mismatch" = "Sie haben zwei nicht übereinstimmende Passwörter eingegeben"
   "olb_by_addr" = "Nach Addresse"
   "desc" = "Beschreibung"
-  "reg_msg" = "Diese Version von MoneyDance wurde noch nicht registriert.. Bitte besuchen Sie https://infinitekind.com/ um Ihre Lizenz von Moneydance zu erwerben."
+  "reg_msg" = "Diese Version von MoneyDance wurde noch nicht registriert.. Bitte besuchen Sie http://moneydance.com/ um Ihre Lizenz von Moneydance zu erwerben."
   "amt_borrowed" = "Darlehensbetrag"
   "september" = "September"
   "chknum_print" = "drucken"
@@ -1375,7 +1375,7 @@ Für eine einspaltige Ansicht alle gewünschten Elemente nur zur rechten oder li
   "cleared_balance" = "Abgeglichener Saldo"
   "r_desc" = "Beschreibung"
   "coa" = "Liste der Konten/Kategorien"
-  "online_reg_req" = "Das Online-Banking ist nur bei registrierten Verionen verfügbar. Sie können Moneydance über folgende Adresse erwerben: https://infinitekind.com/purchase"
+  "online_reg_req" = "Das Online-Banking ist nur bei registrierten Verionen verfügbar. Sie können Moneydance über folgende Adresse erwerben: http://moneydance.com/purchase.shtml"
   "pref_cal_rmdr_col" = "Farbe der Erinnerungen im Kalender"
   "exchange_vi" = "Wiener Börse"
   "any_category" = "<Alle Kategorien>"
@@ -1441,7 +1441,7 @@ Für eine einspaltige Ansicht alle gewünschten Elemente nur zur rechten oder li
   "quarter_to_date" = "Quartal bis heute"
   "exchange_sa" = "Börse Sao Paolo"
   "encrypt_not_available" = "Leider ist es im Moment nicht möglich Ihre Daten zu verschlüsseln.
-Das liegt unter Umständen daran, daß die Unterstützung für Verschlüsselung nicht mit Moneydance installiert wurde. Wenn dies für Sie ein Problem darstellt, setzen Sie sich bitte mit support@infinitekind.com in Verbindung, um eine Lösung zu finden."
+Das liegt unter Umständen daran, daß die Unterstützung für Verschlüsselung nicht mit Moneydance installiert wurde. Wenn dies für Sie ein Problem darstellt, setzen Sie sich bitte mit support@moneydance.com in Verbindung, um eine Lösung zu finden."
   "parent_acct" = "Übergeordnetes Konto"
   "invalid_olb_signon_msg" = "Die angegebene Kundenummer oder PIN ist ungültig.  Für weitere Informationen wenden Sie sich bitte an Ihr Finanzinstitut."
   "err_bad_mod_sig" = "Ungültige oder fehlende Signatur der Erweiterung"
@@ -1549,7 +1549,7 @@ Das liegt unter Umständen daran, daß die Unterstützung für Verschlüsselung 
   "bad_anwp" = "Die eingegebene Kontonummer ist ungültig.  Bitte versuchen sie es erneut."
   "about_html" = "Moneydance
 
-https://infinitekind.com
+http://moneydance.com
 
 - - - - - - - - - - - - - - - - - - - - - - 
 -- Entwickler --
