@@ -2476,5 +2476,9 @@ color.graphData20 = "Conjunto de dados gráficos 20"
 color.graphData21 = "Conjunto de dados gráficos 21"
 color.graphData22 = "Conjunto de dados gráficos 22"
 color.graphData23 = "Conjunto de dados gráficos 23"
+icloud = "iCloud"
+available_extensions = "Disponíveis"
+installed_extensions = "Instaladas"
+updateable_extensions = "Atualizáveis"
 
 }
