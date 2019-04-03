@@ -2378,7 +2378,6 @@ default_new_budget_name = "Budget"
 "download" = "Download"
 "theme_name_mac_dark_mode" = "Dark Mode"
 "import_download_desc" = "Select this box only if the imported file was downloaded (ie not exported from another app)"
-"import_settings_desc" = "Moneydance has analyzed your file and selected some default settings.  "
 "decimal_point_." = "Period (.)"
 "decimal_point_," = "Comma (,)"
 "print_page_setup" = "Page Setup..."
@@ -2489,6 +2488,10 @@ icloud = "iCloud"
 available_extensions = "Available"
 installed_extensions = "Installed"
 updateable_extensions = "Updates"
+file_was_downloaded = "File was downloaded"
+scanning_data = "Scanning data from {{data_src}}"
+"import_single_acct_desc" = "Moneydance has analyzed your file and selected some default settings. Please select the correct destination account in the list below. You may also change the type or currency of any new accounts."
+"import_multiple_settings_desc" = "Moneydance has analyzed your file and selected some default settings. You may change the type or currency of any new accounts."
 
 }
 
