@@ -2499,6 +2499,7 @@ importing_data = "Importing data from {{data_src}}"
 "batch_date_increment_months" = "Add months"
 "batch_date_increment_years" = "Add years"
 "batch_change_txns_msg" = "Change {field} for all selected transactions"
+"online_amt_sign_overrides_txntype" = "Ignore Transaction Types in Favor of Amount Signs"
 
 }
 
