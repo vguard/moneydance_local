@@ -2500,6 +2500,9 @@ importing_data = "Importing data from {{data_src}}"
 "batch_date_increment_years" = "Add years"
 "batch_change_txns_msg" = "Change {field} for all selected transactions"
 "online_amt_sign_overrides_txntype" = "Ignore Transaction Types in Favor of Amount Signs"
+"show_on_open_label" = "When Starting"
+"open_most_recent" = "Re-open Last File"
+"open_this_window" = "Open This Window"
 
 }
 
