@@ -2503,6 +2503,7 @@ importing_data = "Importing data from {{data_src}}"
 "show_on_open_label" = "When Starting"
 "open_most_recent" = "Re-open Last File"
 "open_this_window" = "Open This Window"
+"confirm" = "Please Confirm"
 
 }
 
