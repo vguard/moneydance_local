@@ -2504,6 +2504,8 @@ importing_data = "Importing data from {{data_src}}"
 "open_most_recent" = "Re-open Last File"
 "open_this_window" = "Open This Window"
 "confirm" = "Please Confirm"
+"auto_merge_txns" = "Automatically Merge Duplicates"
+"mark_txns_as_confirmed" = "Mark transactions as confirmed"
 
 }
 
