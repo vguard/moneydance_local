@@ -2506,6 +2506,7 @@ importing_data = "Importing data from {{data_src}}"
 "confirm" = "Please Confirm"
 "auto_merge_txns" = "Automatically Merge Duplicates"
 "mark_txns_as_confirmed" = "Mark transactions as confirmed"
+"remember_this_choice" = "Remember this Choice"
 
 }
 
