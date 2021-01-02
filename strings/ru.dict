@@ -460,7 +460,7 @@
 "default_category" = "Стандартная категория"
 "default_currency" = "Доллар США"
 "default_new_budget_name" = "Бюджет"
-"deflt_chknum_list" = "CkCrd\\tDep\\tTrn\\tATM\\t{Print}\\t<Next Check#>"
+"deflt_chknum_list" = "CkCrd\\tDep\\tTrn\\tATM"
 "del_msg" = "Удалить сообщение"
 "del_reminder_ques" = "Вы действительно хотите удалить это напоминание?"
 "del_sec_txt" = "Выберите ценную бумагу которую Вы хотите удалить"
