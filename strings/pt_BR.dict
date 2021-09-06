@@ -412,7 +412,7 @@ Em seguida, digite todo ou parte do nome da sua instituição financeira no camp
 "about_trans" = "Traduções"
 
 "about_html" = "
-Protuguês do Brasil	Heitor Moreira da Silva
+Português do Brasil	Heitor Moreira da Silva
 Espanhol	Miguel S Garrido
 Italiano	Arrigo Triulzi
 Italiano	Roberto Neri
@@ -1400,7 +1400,7 @@ unclear_all = "Desmarcar todos"
 "enter_rpt_name" = "Por favor, insira um nome para este relatório"
 "enter_graph_name" = "Por favor, insira um nome para este gráfico"
 "print_api" = "Método de impressão"
-"vat_config_exp" = "Para inserir as taxas de IVA/GST, selecione a conta para a qual as taxas se aplicam no lado esquerdo. Digite a taxa do imposto na coluna à direita desta conta. Também selecione uma conta/categoria de despesa onde os impostos serão atribuídos."
+"vat_config_exp" = "Para inserir as taxas de IVA/GST, selecione a conta para a qual os impostos se aplicam no lado esquerdo. Digite a taxa do imposto na coluna à direita desta conta. Também selecione uma conta/categoria de despesa onde os impostos serão atribuídos."
 format_html = "HTML"
 format_commadel = "Delimitado por vírgula"
 shortcuts = "Gráficos e relatórios memorizados"
@@ -1507,8 +1507,8 @@ delete_mem_report_q = "Tem certeza de que deseja excluir este relatório?"
 show_zero_bal_accts = "Incluir contas com saldo zero"
 new_category = "Nova categoria"
 table_column_cashbal = "Saldo de caixa"
-table_column_feecat = "Categoria de comissão"
-table_column_fee = "Comissão"
+table_column_feecat = "Categoria da taxa"
+table_column_fee = "Taxa"
 table_column_feerate = "Taxa de comissão"
 
 invst_txntype_0 = "Buy"
